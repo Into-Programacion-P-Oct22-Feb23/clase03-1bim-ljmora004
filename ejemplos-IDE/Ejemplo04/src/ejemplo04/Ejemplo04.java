@@ -25,14 +25,14 @@ public class Ejemplo04 {
         int variable2 = 10 * 10;
         System.out.println(variable2);
         
+        
         System.out.println("----------------");
-        double variable3 = 10 * 10;
+        double variable3 = 10.2 * 10.9;
         System.out.println(variable3);
         
         System.out.println("----------------");
-        String variable4 = "10" + "10";
+        String variable4 = "10 " + "10";  // 10 10
         System.out.println(variable4);
-        
         
     }
     
