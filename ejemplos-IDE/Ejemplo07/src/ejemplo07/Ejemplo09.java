@@ -17,8 +17,8 @@ public class Ejemplo09 {
     public static void main(String[] args) {
         // Ejemplo de operador lógico NEGACIÓN
         
-        System.out.println(!true); // negación
-        System.out.println(!false); // negación
+        System.out.println(!true); // negación  // false
+        System.out.println(!false); // negación // true
         
     }
     
